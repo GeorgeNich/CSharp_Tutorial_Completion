@@ -15,7 +15,7 @@ This repository contains a simple C# console application that demonstrates the u
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/GeorgeNich/2d-arrays.git
+    git clone https://github.com/GeorgeNich/2dArrays.git
     ```
 
 3. Navigate to the project directory:
